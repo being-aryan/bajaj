@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './App.css';
 
-const API_URL = 'https://backend-oa-wu0n.onrender.com/bfhl';
+const API_URL = 'https://bajaj2-1khv.onrender.com';
 
 export default function App() {
   const [inputData, setInputData] = useState('');
